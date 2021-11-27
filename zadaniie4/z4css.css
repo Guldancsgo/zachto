@@ -1,0 +1,51 @@
+.pudge { 
+    text-decoration: line-through;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 50px;
+color: red;
+
+}
+
+.minipudge {
+    text-transform: uppercase;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 950;
+    font-size: 40px;
+
+color:rgb(19, 162, 187);
+
+}
+
+.hook {
+    font-weight: 600;
+    font-size: 100px;
+color:blue;
+
+}
+
+.pedik {
+    font-weight: 500;
+    font-size: 37px;
+
+color:brown;
+
+
+}
+.huy {
+
+    font-size: 100px;
+    font-weight: 200;
+color:sandybrown;
+
+
+}
+.tinker {
+border-radius: 50%;
+border: ridge red;
+
+}
+
+
+
+
